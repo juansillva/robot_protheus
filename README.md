@@ -14,11 +14,6 @@ Este projeto foi desenvolvido como **atividade de sala de aula** da disciplina d
 
 ---
 
-## 📸 Preview
-
-> *(Adicione uma imagem ou link do projeto, se tiver)*
-
----
 
 ## 👨‍💻 Autor
 
